@@ -1,1 +1,10 @@
---- Empty ---
+**** Changelogs V4.0 ****
+
+* Added OTA support
+* Add netflix custom property in vendor
+* Update Parts Permission
+* Update supported audio samplings
+* Remove Vorbis offload, isn't supported
+* Set subsystem ramdumps as stock config
+* Revert use of render from Vulkan to Open EGL
+* Build sound_trigger.primary.kona from source
