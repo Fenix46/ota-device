@@ -1,1 +1,7 @@
---- Empty ---
+**** Changelogs build date 2022-01-14 V4.1 ****
+
+**** Device Tree ****
+* Fixed Wifi6 connection
+
+**** Kernel ****
+* Change Readhead buffer from 128kb to 256kb
