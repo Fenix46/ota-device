@@ -1,10 +1,8 @@
-**** Changelogs V4.0 ****
+**** Changelogs build date 2022-01-14 V4.1 ****
 
-* Added OTA support
-* Add netflix custom property in vendor
-* Update Parts Permission
-* Update supported audio samplings
-* Remove Vorbis offload, isn't supported
-* Set subsystem ramdumps as stock config
-* Revert use of render from Vulkan to Open EGL
-* Build sound_trigger.primary.kona from source
+**** Device Tree ****
+* Switch AudioHal to 7.0
+* Fixed Wifi6 connection
+
+**** Kernel ****
+* Change Readhead buffer from 128kb to 256kb
