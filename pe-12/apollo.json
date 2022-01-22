@@ -1,15 +1,15 @@
 {
     "error":false,
-    "maintainers":[{"main_maintainer":false,"github_username":"Fenix46","name":"Fenix46"}],
+    "maintainers":[{"main_maintainer":false,"github_username":"Fenix46","name":"Emanuele Scarlata"}],
     "donate_url":"",
     "website_url":"https://github.com/Fenix46/ota-device/releases/",
-    "datetime":1642179810,
-    "filename": "PixelExperience_apollo-12.0-20220114-1703-UNOFFICIAL.zip",
-    "id": "f3417fa0d1dd1617951470c8e0b6dd117fd191eadcc72c5f588c9224d130ac3e",
+    "datetime":1642878598,
+    "filename": "PixelExperience_apollo-12.0-20220122-1909-UNOFFICIAL.zip",
+    "id": "5ee55a39fac276782465c4c51edd7ee67ed38b1741036150061d7036f31cf6ba",
     "size": 2040109465,
-    "url":"https://github.com/Fenix46/ota-device/releases/download/2022-01-14/PixelExperience_apollo-12.0-20220114-1429-UNOFFICIAL.zip",
+    "url":"https://github.com/Fenix46/ota-device/releases/download/2022-01-22/PixelExperience_apollo-12.0-20220122-1909-UNOFFICIAL.zip",
     "version": "twelve",
-    "filehash":"63ef03249c5e2e7162a2e7a242c35746",
+    "filehash":"c2eb409783552531604a140ceed97439",
     "is_incremental":false,
     "has_incremental":false
 }

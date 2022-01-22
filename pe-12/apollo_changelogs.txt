@@ -1,7 +1,13 @@
-**** Changelogs build date 2022-01-14 V4.1 ****
+**** This Changelogs is for the rom of today the first one with ota enabled and for this new one ****
+**** Changelogs build date 2022-01-22 V4.5 ****
 
 **** Device Tree ****
-* Fixed Wifi6 connection
+Disabled High Touch polling rate controll
+Merge audio configs from V13.0.0.1 DEV release
+Remove Zram as pixel usage, and restore stock use of zram
 
-**** Kernel ****
-* Change Readhead buffer from 128kb to 256kb
+**** Changelogs build date 2022-01-22 V4.6 ****
+
+Implement Dirac Sound Enhancer in XiaomiParts
+
+
