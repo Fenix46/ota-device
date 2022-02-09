@@ -1,19 +1,8 @@
-**** Changelogs build PixelExperienceX date 2022-01-28 V1.0 ****
+#Build PixelExperienceX_1.1_apollo-12.0-20220209-1834-OFFICIAL
 
-**** Initial Build of Pixel Experience X ****
+#Changelog
 
-**** Source ****
-
-# Add Optimization for HW renderer in Vulkan
-
-# Add battery for bluetooth device 
-
-**** List of commit ****
-
-Revert "Revert "Add developer setting to set the default GPU renderer."" [https://github.com/PixelExperienceX/frameworks_base/commit/06c47a1787bd47687c75202f0243642c4127995b]
-SettingsLib: Allow Skia Vulkan to be used as HW renderer [https://github.com/PixelExperienceX/frameworks_base/commit/3e4f2b22e89cdb79fc44996e30ddc07b3c5b257e]
-hwui: Fix HWUI_COMPILE_FOR_PERF for non-arm [https://github.com/PixelExperienceX/frameworks_base/commit/1f6a072ae1f4cae49e60dc06de7e0649de579c0d]
-SystemUI: Show bluetooth battery level when available [https://github.com/PixelExperienceX/frameworks_base/commit/4f05c55d5509e8f634d3060d6a539572e81f3a6d]
-Statusbar bluetooth battery level: improvements [https://github.com/PixelExperienceX/frameworks_base/commit/5c8516ea07bf455d8203166ee787ed779ae5c9a7]
-Statusbar battery level device filter: add a few more ones [https://github.com/PixelExperienceX/frameworks_base/commit/bb8d9870f1ab03d8e434227141415ede5d077b19]
-fixup! SystemUI: Show bluetooth battery level when available [https://github.com/PixelExperienceX/frameworks_base/commit/6a5da62c69479469cf255f1874d60c29ae1418b1]
+*Bumped to version 1.1
+*Switched to official and fix also OTA again
+*Enabled PixelExperienceX Tweaks (WIP)
+*Modify at animation speed
