@@ -1,8 +1,20 @@
-#Build PixelExperienceX_1.1_apollo-12.0-20220209-1834-OFFICIAL
+#Build PixelExperienceX_1.2_apollo-12.0-20220217-1746-OFFICIAL
 
 #Changelog
 
-*Bumped to version 1.1
-*Switched to official and fix also OTA again
-*Enabled PixelExperienceX Tweaks (WIP)
-*Modify at animation speed
+#Device and Kernel
+*Bumped to version 1.2
+*Add 670MHz GPU frequency
+*Add libgame_enhance.so, libhdrdynamic.so and libhdrdynamicootf.so
+*Add android.software.vulkan.deqp.level, version 2020-03-01 
+*Enable Gralloc ion sync
+*Increase audio HAL buffer size to 240
+
+#ScreenRecord
+*Add low quality bitrate scalable for device
+*Save and load preferences
+*Add option for record without memory problem
+*Add option to stop recording without expanding the notification panel
+
+#frameworks_base
+*Other Optimization for Smothness
