@@ -1,0 +1,16 @@
+{
+    "error":false,
+    "maintainers":[{"main_maintainer":false,"github_username":"Fenix46","name":"Emanuele Scarlata"}],
+    "support_url":"https://t.me/redmi8support",                                       
+    "donate_url":"",
+    "website_url":"https://github.com/Fenix46/ota-device/releases/",
+    "datetime":1646473842,
+    "filename":"PixelExperienceX_1.4_olive-12.0-20220305-0950-OFFICIAL.zip",
+    "id":"7e6b6b76a59fede44556f0d4e082ad7a073aae40e40d4d9d344b32859d549748",
+    "size":1677721,
+    "url":"https://github.com/Fenix46/ota-device/releases/download/2022-03-05/PixelExperienceX_1.4_olive-12.0-20220305-0950-OFFICIAL.zip",
+    "version":"1.4",
+    "filehash":"cead94bfe565471930a9347275c37285",
+    "is_incremental":true,
+    "has_incremental":true
+}
