@@ -1,12 +1,15 @@
 {
-  "response": [
-    {
-      "datetime": ,
-      "filename": "PixelExperienceX_1.5_apollo-12.1-20220426-1804-OFFICIAL.zip",
-      "id": "ea42cfb60741517d490e00daa02bc2087b41c7aa5a384a7b20d39724ee8f5c8e",
-      "size": 2254857830,
-      "url": "https://sourceforge.net/projects/official-devices/files/apollo/PixelExperienceX_1.5_apollo-12.1-20220426-1804-OFFICIAL.zip/download",
-      "version": "12.1"
-    }
-  ]
+    "error":false,
+    "maintainers":[{"main_maintainer":false,"github_username":"Fenix46","name":"Emanuele Scarlata"}],
+    "donate_url":"",
+    "website_url":"https://pixelexperiencex.altervista.org/devices/",
+    "datetime":1651485660,
+    "filename":"PixelExperienceX_1.6_apollo-12.1-20220502-1001-OFFICIAL.zip",
+    "id":"494ef8ca4ac3a30289d76dcb68f8ea257fadc5498d5cefaf74dac821317b9880",
+    "size":2040109465,
+    "url":"https://sourceforge.net/projects/official-devices/files/apollo/PixelExperienceX_1.6_apollo-12.1-20220502-1001-OFFICIAL.zip/download",
+    "version":"twelve",
+    "filehash":"edf6832b4a7ba20fdda8e3712eb192a2",
+    "is_incremental":false,
+    "has_incremental":false
 }
