@@ -4,12 +4,12 @@
     "donate_url":"",
     "website_url":"https://pixelexperiencex.altervista.org/devices/",
     "datetime":1651485660,
-    "filename":"PixelExperienceX_1.6_apollo-12.1-20220502-1001-OFFICIAL.zip",
-    "id":"494ef8ca4ac3a30289d76dcb68f8ea257fadc5498d5cefaf74dac821317b9880",
-    "size":2040109465,
-    "url":"https://sourceforge.net/projects/official-devices/files/apollo/PixelExperienceX_1.6_apollo-12.1-20220502-1001-OFFICIAL.zip/download",
+    "filename":"PixelExperienceX_1.6_apollo-12.1-20220517-0943-OFFICIAL.zip",
+    "id":"e002ba60ffb2e7699b7b201065c6a26f32594dc30462b09ea305b84d8a4075d7",
+    "size":2066743296,
+    "url":"https://sourceforge.net/projects/official-devices/files/apollo/PixelExperienceX_1.6_apollo-12.1-20220517-0943-OFFICIAL.zip/download",
     "version":"twelve",
-    "filehash":"edf6832b4a7ba20fdda8e3712eb192a2",
+    "filehash":"20b538171b740c34a5ef553869448877",
     "is_incremental":false,
     "has_incremental":false
 }
